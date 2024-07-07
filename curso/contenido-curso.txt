@@ -1,0 +1,153 @@
+Section 1: Welcome to the course!
+1. Welcome Challenge!
+2. Why AI?
+3. Course Structure
+4. Get the PDF Handbook here
+5. EXTRA: Use ChatGPT to Build AI More Efficiently
+Section 2: ---------- Part 0 - Fundamentals Of Reinforcement Learning ----------
+6. Welcome to Part 0 - Fundamentals of Reinforcement Learning
+Section 3: Q-Learning Intuition
+7. Plan of Attack
+8. What is reinforcement learning?
+9. The Bellman Equation
+10. The "Plan"
+11. Markov Decision Process
+12. Policy vs Plan
+13. Adding a "Living Penalty"
+14. Q-Learning Intuition
+15. Temporal Difference
+Quiz 1: Quiz 1
+Section 4: Q-Learning Implementation
+16. A Q-Learning Implementation for Process Optimization
+Section 5: ---------- Part 1 - Deep Q-Learning ----------
+17. Welcome to Part 1 - Deep Q-Learning
+Section 6: Deep Q-Learning Intuition
+18. Plan of Attack
+19. Deep Q-Learning Intuition - Learning
+20. Deep Q-Learning Intuition - Acting
+21. Experience Replay
+22. Action Selection Policies
+Section 7: Deep Q-Learning Implementation
+23. Get the Codes here
+24. Deep Q-Learning Implementation - Step 1
+25. Deep Q-Learning Implementation - Step 2
+26. Deep Q-Learning Implementation - Step 3
+27. Deep Q-Learning Implementation - Step 4
+28. Deep Q-Learning Implementation - Step 5
+29. Deep Q-Learning Implementation - Step 6
+30. Deep Q-Learning Implementation - Step 7
+31. Deep Q-Learning Implementation - Step 8
+32. Deep Q-Learning Implementation - Step 9
+33. Deep Q-Learning Implementation - Step 10
+34. Deep Q-Learning Implementation - Step 11
+35. Deep Q-Learning Implementation - Step 12
+36. Deep Q-Learning Implementation - Step 13
+37. Deep Q-Learning Implementation - Step 14
+38. Deep Q-Learning Implementation - Step 15
+39. Deep Q-Learning Implementation - Step 16
+40. Deep Q-Learning Implementation - Step 17
+41. Deep Q-Learning Implementation - Step 18
+42. Deep Q-Learning Implementation - Step 19
+43. Deep Q-Learning Implementation - Step 20
+Section 8: ---------- Part 2 - Deep Convolutional Q-Learning ----------
+44. Welcome to Part 2 - Deep Convolutional Q-Learning
+Section 9: Deep Convolutional Q-Learning Intuition
+45. Plan of Attack
+46. Deep Convolutional Q-Learning Intuition
+47. Eligibility Trace
+Section 10: Deep Convolutional Q-Learning Implementation
+48. Get the Codes here
+49. Deep Convolutional Q-Learning Implementation - Step 1
+50. Deep Convolutional Q-Learning Implementation - Step 2
+51. Deep Convolutional Q-Learning Implementation - Step 3
+52. Deep Convolutional Q-Learning Implementation - Step 4
+53. Deep Convolutional Q-Learning Implementation - Step 5
+54. Deep Convolutional Q-Learning Implementation - Step 6
+55. Deep Convolutional Q-Learning Implementation - Step 7
+56. Deep Convolutional Q-Learning Implementation - Step 8
+57. Deep Convolutional Q-Learning Implementation - Step 9
+58. Deep Convolutional Q-Learning Implementation - Step 10
+59. Deep Convolutional Q-Learning Implementation - Step 11
+60. Deep Convolutional Q-Learning Implementation - Step 12
+61. Deep Convolutional Q-Learning Implementation - Step 13
+Section 11: ---------- Part 3 - A3C ----------
+62. Welcome to Part 3 - A3C
+Section 12: A3C Intuition
+63. Plan of Attack
+64. The three A's in A3C
+65. Actor-Critic
+66. Asynchronous
+67. Advantage
+68. LSTM Layer
+Section 13: A3C Implementation
+69. Get the Codes here
+70. A3C Implementation - Step 1
+71. A3C Implementation - Step 2
+72. A3C Implementation - Step 3
+73. A3C Implementation - Step 4
+74. A3C Implementation - Step 5
+75. A3C Implementation - Step 6
+76. A3C Implementation - Step 7
+77. A3C Implementation - Step 8
+78. A3C Implementation - Step 9
+79. A3C Implementation - Step 10
+80. A3C Implementation - Step 11
+81. A3C Implementation - Step 12
+82. A3C Implementation - Step 13
+83. A3C Implementation - Step 14
+84. A3C Implementation - Step 15
+Section 14: ---------- Part 4 - PPO and SAC ----------
+85. Build and Train the PPO and SAC models for a Self-Driving Car! Theory included.
+Section 15: ---------- Part 5 - Intro to Large Language Models (LLMs) ----------
+86. Welcome to Part 5 - Intro to Large Language Models (LLMs)
+Section 16: LLMs Intuition
+87. Introduction to LLMs
+88. Ingredients of an LLM
+89. Who invented LLMs?
+90. How LLMs generate text
+91. Inside an LLM - Under the Hood
+92. LLM Parameters
+93. LLM Context Window
+94. Fine-Tuning LLMs
+Section 17: LLMs Implementation
+95. Get the Codes here
+96. Fine-Tuning LLMs with Hugging Face - Step 1
+97. Fine-Tuning LLMs with Hugging Face - Step 2
+98. Fine-Tuning LLMs with Hugging Face - Step 3
+99. Fine-Tuning LLMs with Hugging Face - Step 4
+100. Fine-Tuning LLMs with Hugging Face - Step 5
+101. Fine-Tuning LLMs with Hugging Face - Step 6
+102. Fine-Tuning LLMs with Hugging Face - Step 7
+Section 18: THANK YOU
+103. THANK YOU Video
+Section 19: Annex 1: Artificial Neural Networks
+104. What is Deep Learning?
+105. Plan of Attack
+106. The Neuron
+107. The Activation Function
+108. How do Neural Networks work?
+109. How do Neural Networks learn?
+110. Gradient Descent
+111. Stochastic Gradient Descent
+112. Backpropagation
+Section 20: Annex 2: Convolutional Neural Networks
+113. Plan of Attack
+114. What are convolutional neural networks?
+115. Step 1 - Convolution Operation
+116. Step 1(b) - ReLU Layer
+117. Step 2 - Pooling
+118. Step 3 - Flattening
+119. Step 4 - Full Connection
+120. Summary
+121. Softmax &amp; Cross-Entropy
+Section 21: Extra Materials
+122. Extra Section - Q-Learning Intro
+123. Extra Section - Q-Learning Part I
+124. Extra Section - Q-Learning Part II
+125. Extra Section - Q-Learning Part III
+126. Extra Section - Q-Learning Part IV
+127. Extra Section - Q-Learning - Part V
+128. Extra Section - Q-Learning Section VI
+Section 22: Congratulations!! Don't forget your Prize :)
+129. Huge Congrats for completing the challenge!
+130. Bonus: How To UNLOCK Top Salaries (Live Training)
